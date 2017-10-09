@@ -1,21 +1,24 @@
-# Gossip
+Team members
+Hang Jin
+Ying Zhu
 
-**TODO: Add description**
+in mac system
+using ./gossip numNodes topology algorithm
 
-## Installation
+For your convenience, I use number represent topology and algorithm
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `gossip` to your list of dependencies in `mix.exs`:
+1 full network
+2 2D grid
+3 Line
+4 Imperfect 2D grid
 
-```elixir
-def deps do
-  [
-    {:gossip, "~> 0.1.0"}
-  ]
-end
-```
+1 gossip
+2 pushsum
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/gossip](https://hexdocs.pm/gossip).
+
+when you want to run gossip with line topology with 16 nodes run the code below
+./gossip 16 3 2
+
+
+
 
