@@ -19,6 +19,7 @@ using ./gossip numNodes topology algorithm
 
 
 when you want to run gossip algorithm with 2D grid topology with 16 nodes run the code below
+
 ./gossip 16 2 1
 
 
