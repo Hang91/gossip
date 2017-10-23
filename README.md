@@ -4,7 +4,7 @@ using ./gossip numNodes topology algorithm
 
  For your convenience, I use number represent topology and algorithm
 
-# topology
+### topology
 1 full network
 
 2 2D grid
@@ -13,7 +13,7 @@ using ./gossip numNodes topology algorithm
 
 4 Imperfect 2D grid
 
-# algorithm
+### algorithm
 1 gossip
 2 pushsum
 
